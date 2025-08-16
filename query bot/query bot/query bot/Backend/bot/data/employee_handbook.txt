@@ -1,0 +1,32 @@
+employee_handbook.txt
+
+Document Title: Employee Handbook – Code of Conduct & Workplace Guidelines
+Effective Date: January 1, 2025
+
+1. Office Timings
+
+Regular office hours: 9:00 AM – 6:00 PM, Monday to Friday.
+
+Lunch break: 1:00 PM – 2:00 PM.
+
+2. Dress Code
+
+Formal attire from Monday to Thursday.
+
+Smart casuals allowed on Friday.
+
+No shorts, flip-flops, or overly revealing clothing in the workplace.
+
+3. Code of Conduct
+
+Treat colleagues, clients, and partners with respect.
+
+No harassment, discrimination, or offensive language tolerated.
+
+Company assets must be used only for official purposes.
+
+4. Probation & Confirmation
+
+All new hires undergo a 6-month probation period.
+
+Confirmation is based on performance review by the reporting manager.

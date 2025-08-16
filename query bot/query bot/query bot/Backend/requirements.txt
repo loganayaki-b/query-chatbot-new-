@@ -1,0 +1,5 @@
+langchain
+langchain-google-genai
+langchain-community  # For FAISS and document loaders
+sentence-transformers
+faiss-cpu

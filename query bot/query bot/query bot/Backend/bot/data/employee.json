@@ -1,0 +1,86 @@
+[
+  {
+    "employee_id": "EMP001",
+    "name": "Arjun Mehta",
+    "designation": "Software Engineer",
+    "department": "Engineering",
+    "date_of_joining": "2023-06-15",
+    "email": "arjun.mehta@company.com",
+    "phone": "+91-9876543210",
+    "leave_balance": {
+      "casual_leave": 2,
+      "sick_leave": 8,
+      "earned_leave": 10
+    },
+    "leaves_taken": {
+      "2025-08": {
+        "casual_leave": 1,
+        "sick_leave": 0
+      }
+    },
+    "salary_details": {
+      "basic": 45000,
+      "hra": 20000,
+      "allowances": 5000,
+      "total_ctc": 70000
+    },
+    "work_location": "Bangalore",
+    "probation_status": "Confirmed"
+  },
+  {
+    "employee_id": "EMP002",
+    "name": "Priya Sharma",
+    "designation": "HR Executive",
+    "department": "Human Resources",
+    "date_of_joining": "2022-01-10",
+    "email": "priya.sharma@company.com",
+    "phone": "+91-9988776655",
+    "leave_balance": {
+      "casual_leave": 1,
+      "sick_leave": 6,
+      "earned_leave": 15
+    },
+    "leaves_taken": {
+      "2025-08": {
+        "casual_leave": 1,
+        "sick_leave": 2
+      }
+    },
+    "salary_details": {
+      "basic": 30000,
+      "hra": 12000,
+      "allowances": 8000,
+      "total_ctc": 50000
+    },
+    "work_location": "Mumbai",
+    "probation_status": "Confirmed"
+  },
+  {
+    "employee_id": "EMP003",
+    "name": "Rohan Iyer",
+    "designation": "Finance Analyst",
+    "department": "Finance",
+    "date_of_joining": "2024-02-05",
+    "email": "rohan.iyer@company.com",
+    "phone": "+91-9123456780",
+    "leave_balance": {
+      "casual_leave": 2,
+      "sick_leave": 10,
+      "earned_leave": 12
+    },
+    "leaves_taken": {
+      "2025-08": {
+        "casual_leave": 0,
+        "sick_leave": 1
+      }
+    },
+    "salary_details": {
+      "basic": 40000,
+      "hra": 15000,
+      "allowances": 7000,
+      "total_ctc": 62000
+    },
+    "work_location": "Hyderabad",
+    "probation_status": "Probation"
+  }
+]

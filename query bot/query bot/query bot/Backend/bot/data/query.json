@@ -1,0 +1,42 @@
+[
+  {
+    "query_id": "Q001",
+    "employee_id": "EMP001",
+    "query": "How many casual leaves do I have left this month?",
+    "hr_response": "As per policy, you are allowed 2 casual leaves per month. Our records show you already took 1 casual leave in August, so you have 1 remaining.",
+    "timestamp": "2025-08-01T10:15:00Z",
+    "category": "Leave Policy"
+  },
+  {
+    "query_id": "Q002",
+    "employee_id": "EMP002",
+    "query": "When will my salary be credited this month?",
+    "hr_response": "Salary is credited on the last working day of every month. Since 31st August is a Sunday, your salary will be credited on 30th August (Saturday).",
+    "timestamp": "2025-08-05T14:30:00Z",
+    "category": "Payroll"
+  },
+  {
+    "query_id": "Q003",
+    "employee_id": "EMP003",
+    "query": "Can I work from home tomorrow?",
+    "hr_response": "WFH is allowed up to 6 days per month with prior manager approval. You currently have 2 WFH days left this month, please confirm with your manager.",
+    "timestamp": "2025-08-07T09:00:00Z",
+    "category": "WFH Policy"
+  },
+  {
+    "query_id": "Q004",
+    "employee_id": "EMP002",
+    "query": "How do I update my residential address in the records?",
+    "hr_response": "Please submit an address change request form via the HR portal. Once approved, it will be updated in our database within 3 working days.",
+    "timestamp": "2025-08-10T16:20:00Z",
+    "category": "Employee Data Update"
+  },
+  {
+    "query_id": "Q005",
+    "employee_id": "EMP001",
+    "query": "Does the company provide health insurance for parents?",
+    "hr_response": "Our group health insurance covers employee, spouse, and up to 2 children. Parents are not included by default, but you can opt for top-up insurance at your own cost.",
+    "timestamp": "2025-08-12T11:10:00Z",
+    "category": "Benefits & Perks"
+  }
+]
